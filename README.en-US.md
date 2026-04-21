@@ -473,7 +473,7 @@ JeecgBoot is released under the [Apache License 2.0](./LICENSE). Please read the
    To the maximum extent permitted by applicable law, the authors, contributors, and copyright holders of JeecgBoot shall not be liable for any direct, indirect, incidental, special, punitive, or consequential damages suffered by users or any third party arising from the use of this software.
 
 4. **Community Request**  
-   While the Apache License 2.0 grants full rights to use, modify, and redistribute this software, we kindly request that derivative works refrain from directly replicating, misrepresenting themselves as official JeecgBoot releases, or using names/branding highly similar to JeecgBoot. This is a non-binding appeal for healthy collaboration within the open-source community, not a restrictive condition.
+   While the Apache License 2.0 grants full rights to use, modify, and redistribute this software, we kindly request that derivative works refrain from directly replicating, misrepresenting themselves as official JeecgBoot releases, or using names/branding highly similar to JeecgBoot.
 
 By downloading, copying, installing, or otherwise using this software, you are deemed to have read, understood, and agreed to the foregoing disclaimer.
 
